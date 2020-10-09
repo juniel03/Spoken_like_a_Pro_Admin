@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="violet">#3E54D3</color>
+    <color name="purple">#4F80E2</color>
+    <color name="bluegreen">#4FE0B6</color>
+    <color name="skyblue">#9DE5FF</color>
+    <color name="red">#FE0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#40000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="popup_bg">#803E54D3</color>
+
+    <!-- dots inactive colors -->
+    <color name="dot_light_screen3">#2278d4</color>
+
+
+    <!-- dots active colors -->
+    <color name="dot_dark_screen3">#93c6fd</color>
+
+
+    <array name="array_dot_active">
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen3</item>
+        <item>@color/dot_light_screen3</item>
+    </array>
+
+    <array name="array_dot_inactive">
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen3</item>
+        <item>@color/dot_dark_screen3</item>
+    </array>
+</resources>

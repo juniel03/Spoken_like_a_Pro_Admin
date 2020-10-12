@@ -1,50 +1,46 @@
 {
   "project_info": {
-    "project_number": "827728968704",
-    "firebase_url": "https://spoken-like-a-pro.firebaseio.com",
-    "project_id": "spoken-like-a-pro",
-    "storage_bucket": "spoken-like-a-pro.appspot.com"
+    "project_number": "190337221031",
+    "firebase_url": "https://spokenlogin.firebaseio.com",
+    "project_id": "spokenlogin",
+    "storage_bucket": "spokenlogin.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:827728968704:android:842038aef36f0e698a2ce5",
+        "mobilesdk_app_id": "1:190337221031:android:1ffca3d499f550d041f682",
         "android_client_info": {
-          "package_name": "com.bluesolution.spokenlikeapro"
+          "package_name": "com.bluesolution.spokenlikeaproadmin"
         }
       },
       "oauth_client": [
         {
-          "client_id": "827728968704-n4q0lug0mlurm3lnkvife48trcvsan50.apps.googleusercontent.com",
+          "client_id": "190337221031-q9gcnqlu97b95993teckve9ufsp4lh45.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.bluesolution.spokenlikeapro",
-            "certificate_hash": "f03b053701dd16db04538ddc4962eb5caae9254c"
+            "package_name": "com.bluesolution.spokenlikeaproadmin",
+            "certificate_hash": "89d69af590c11c7bd2061f431731da246ec9bd95"
           }
         },
         {
-          "client_id": "827728968704-e4jpbbkjc3j1a4kg5ir3si8anbig3g0j.apps.googleusercontent.com",
+          "client_id": "190337221031-uthgirm52aivg23oviceqj3kfl8e2cdh.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyANdbr0P82mYbqMgbz92j66-OINJ44nJKU"
+          "current_key": "AIzaSyDkX6jNSWusI_avHdlCeypICcS_QGeLwNA"
+        },
+        {
+          "current_key": "AIzaSyBKd-skY50aGnOJphW193TenwU5CFwtRrw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "827728968704-e4jpbbkjc3j1a4kg5ir3si8anbig3g0j.apps.googleusercontent.com",
+              "client_id": "190337221031-uthgirm52aivg23oviceqj3kfl8e2cdh.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "827728968704-dehapdrds7ieaade5gq5si4qm5tieppi.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.bluesolution.spokenlikeapro"
-              }
             }
           ]
         }
@@ -52,43 +48,39 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:827728968704:android:2aef8d8e5cc678d68a2ce5",
+        "mobilesdk_app_id": "1:190337221031:android:d697a442e5ec586e41f682",
         "android_client_info": {
-          "package_name": "com.bluesolution.spokenlikeaproadmin"
+          "package_name": "com.example.spokenlogin"
         }
       },
       "oauth_client": [
         {
-          "client_id": "827728968704-0uu1u87oad9cdkmlablprlhh2d6ldgmt.apps.googleusercontent.com",
+          "client_id": "190337221031-pgafm7tjh2plmuc6casql7bg3bil9d7t.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.bluesolution.spokenlikeaproadmin",
+            "package_name": "com.example.spokenlogin",
             "certificate_hash": "f03b053701dd16db04538ddc4962eb5caae9254c"
           }
         },
         {
-          "client_id": "827728968704-e4jpbbkjc3j1a4kg5ir3si8anbig3g0j.apps.googleusercontent.com",
+          "client_id": "190337221031-uthgirm52aivg23oviceqj3kfl8e2cdh.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyANdbr0P82mYbqMgbz92j66-OINJ44nJKU"
+          "current_key": "AIzaSyDkX6jNSWusI_avHdlCeypICcS_QGeLwNA"
+        },
+        {
+          "current_key": "AIzaSyBKd-skY50aGnOJphW193TenwU5CFwtRrw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "827728968704-e4jpbbkjc3j1a4kg5ir3si8anbig3g0j.apps.googleusercontent.com",
+              "client_id": "190337221031-uthgirm52aivg23oviceqj3kfl8e2cdh.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "827728968704-dehapdrds7ieaade5gq5si4qm5tieppi.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.bluesolution.spokenlikeapro"
-              }
             }
           ]
         }

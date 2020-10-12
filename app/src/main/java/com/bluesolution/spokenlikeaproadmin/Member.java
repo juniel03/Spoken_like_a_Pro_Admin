@@ -2,6 +2,12 @@ package com.bluesolution.spokenlikeaproadmin;
 
 public class Member {
     public Member() {}
+
+    public Member(String checkerEmail, String premiumCode) {
+        this.checkerEmail = checkerEmail;
+        this.premiumCode = premiumCode;
+    }
+
     public String checkerEmail;
     public String premiumCode;
 
